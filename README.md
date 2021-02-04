@@ -20,4 +20,4 @@ Initial Problem:
 
 Solution:
 <br>
-<img width=700 src="https://user-images.githubusercontent.com/56659549/106966365-efd28680-6723-11eb-9f22-57bbf3bf408a.png">
+<img width=700 src="https://user-images.githubusercontent.com/56659549/106966700-9dde3080-6724-11eb-97a8-9e792d9b2f25.png">
