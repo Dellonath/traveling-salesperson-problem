@@ -1,5 +1,5 @@
 # Traveling Salesperson Problem
-Creates a random traveling salesman problem and can solve it with a genetic algorithm. This project was created in my graduation in Computer Science at Universidade Federal de Itajubá as a test for approval in the discipline of Artificial Intelligence offered by professor Isabela Neves Drummond.
+Creates a random traveling salesman problem and solve it with a genetic algorithm. This project was created in my graduation in Computer Science at Universidade Federal de Itajubá as a test for approval in the discipline of Artificial Intelligence.
 
 ### Technologies
 - [Python](https://www.python.org/)
